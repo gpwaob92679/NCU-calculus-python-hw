@@ -20,5 +20,7 @@ in year 111.
 | Homework         | Code                      | Output                | Link                          |
 |------------------|---------------------------|-----------------------|-------------------------------|
 | HW1(03/01~03/16) | [HW1.py](1112/HW1/HW1.py) | ![](1112/HW1/HW1.png) | [Exercise 7-2][1112-HW1-link] |
+| HW2(03/27~04/18) | [HW2.py](1112/HW2/HW2.py) | ![](1112/HW2/HW2.png) | [Exercise 8-2][1112-HW2-link] |
 
 [1112-HW1-link]: http://python.math.ncu.edu.tw/exercise/python/7-2
+[1112-HW2-link]: http://python.math.ncu.edu.tw/exercise/python/8-2
